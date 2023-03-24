@@ -14,3 +14,5 @@ const a = (num) => console.log(num);
 const b = (num) => console.log(num * 2);
 iterate(5, a);
 iterate(5, b);
+
+// Immutability  불변성
